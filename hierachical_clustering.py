@@ -12,7 +12,8 @@ df_genes = pd.read_csv("~/Documents/Studies/Modules/DatenanalyseLifeScience/Task
 
 data = df_genes.iloc[:, 2:]
 
-linkage_data = linkage(data, method='ward', metric='euclidean')
+
+linkage_data = linkage(data.transpose(), method='ward', metric='euclidean')
 dendrogram(linkage_data)
 
 plt.show()
