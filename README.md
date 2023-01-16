@@ -1,6 +1,15 @@
 # GeneClustering
 Data Analysis Master Project
 
+- Data preparation
+- Hierarchical Clustering
+
+Used libraries:
+
+- scipy.cluster
+- pandas
+- matplotlib
+
 # OFFEN
 
 - Determine Feature importances when building a classification model: https://www.verywellmind.com/what-is-nature-versus-nurture-2795392
