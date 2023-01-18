@@ -28,6 +28,8 @@ Create clusters based on similarity.
 
 ![image](https://user-images.githubusercontent.com/50245942/213171933-fc5c25f0-d9dd-4558-886a-1a28a6cb251c.png)
 
+![image](https://user-images.githubusercontent.com/50245942/213172477-f4f64aeb-f6c6-498b-92df-ea6733caf865.png)
+
 Comparison of the identified clusters.
 
 # OFFEN
